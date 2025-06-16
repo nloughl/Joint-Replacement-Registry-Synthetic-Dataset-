@@ -1,0 +1,101 @@
+De-identified Joint ID,De-identified Patient ID,Patient Age,Patient Sex,Province/Territory,Data source,Fiscal year,Surgery Year,Replacement Type,Primary Intervention code,Primary Status attribute,Primary Location attribute,Primary replacement side,Primary procedure type,Most responsible diagnosis,Teaching Hospital Flag,Cement Flag (CJRR),Cement Flag (CCI)
+JNT0000,PAT0021,78,Female,ON,NACRS,2019/20,2018,Primary,1VA53LAPN,Partial,Bilateral,Both,Unicompartmental Arthroplasty,Osteoarthritis,Yes,No,No
+JNT0001,PAT0004,64,Male,MB,DAD,2020/21,2019,Primary,1VA53RAPN,Partial,Bilateral,Both,Total Knee Arthroplasty,Osteoarthritis,No,Unknown,Yes
+JNT0002,PAT0001,57,Male,ON,DAD,2020/21,2018,Revision,1VA53LAPN,Total,Bilateral,Both,Total Knee Arthroplasty,Osteoarthritis,No,Unknown,Yes
+JNT0003,PAT0024,70,Female,ON,NACRS,2019/20,2019,Primary,1VA53LLPN,Total,Unilateral,Both,Unicompartmental Arthroplasty,Osteoarthritis,No,No,Unknown
+JNT0004,PAT0009,68,Male,AB,DAD,2019/20,2020,Revision,1VA53LAPN,Total,Bilateral,Both,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,No,Yes
+JNT0005,PAT0008,72,Male,ON,NACRS,2019/20,2020,Revision,1VA53RAPN,Total,Bilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,No,No
+JNT0006,PAT0008,60,Male,BC,DAD,2018/19,2018,Primary,1VA53LAPN,Partial,Unilateral,Both,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,Yes,No
+JNT0007,PAT0005,60,Male,BC,NACRS,2021/22,2021,Primary,1VA53LAPN,Total,Bilateral,Both,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,No,Unknown
+JNT0008,PAT0024,73,Male,QC,DAD,2018/19,2018,Primary,1VA53LAPN,Total,Unilateral,Left,Unicompartmental Arthroplasty,Osteoarthritis,Yes,No,No
+JNT0009,PAT0004,73,Female,NS,NACRS,2018/19,2018,Primary,1VA53LLPN,Total,Bilateral,Right,Total Knee Arthroplasty,Post-traumatic Arthritis,No,No,No
+JNT0010,PAT0022,52,Female,MB,NACRS,2020/21,2019,Primary,1VA53LAPN,Total,Unilateral,Right,Total Knee Arthroplasty,Post-traumatic Arthritis,Yes,Unknown,No
+JNT0011,PAT0024,71,Female,ON,NACRS,2019/20,2019,Primary,1VA53LLPN,Total,Unilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,Unknown,Yes
+JNT0012,PAT0029,51,Male,ON,NACRS,2021/22,2018,Primary,1VA53LLPN,Total,Bilateral,Both,Total Knee Arthroplasty,Rheumatoid Arthritis,No,Yes,Yes
+JNT0013,PAT0018,73,Male,AB,NACRS,2020/21,2020,Primary,1VA53LAPN,Partial,Unilateral,Both,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,Yes,No
+JNT0014,PAT0003,79,Male,NS,DAD,2018/19,2019,Revision,1VA53LAPN,Partial,Unilateral,Both,Total Knee Arthroplasty,Post-traumatic Arthritis,Yes,Unknown,Unknown
+JNT0015,PAT0019,51,Female,BC,DAD,2019/20,2021,Primary,1VA53LAPN,Total,Unilateral,Left,Total Knee Arthroplasty,Post-traumatic Arthritis,Yes,Unknown,Yes
+JNT0016,PAT0014,70,Male,MB,DAD,2020/21,2019,Revision,1VA53RAPN,Total,Unilateral,Both,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,Unknown,Unknown
+JNT0017,PAT0002,82,Male,QC,NACRS,2019/20,2019,Primary,1VA53LAPN,Total,Unilateral,Left,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,No,No
+JNT0018,PAT0001,61,Female,BC,DAD,2020/21,2021,Primary,1VA53LLPN,Partial,Unilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,No,No
+JNT0019,PAT0003,71,Male,NS,NACRS,2019/20,2018,Primary,1VA53LAPN,Total,Bilateral,Both,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,Unknown,Yes
+JNT0020,PAT0007,74,Female,QC,NACRS,2018/19,2021,Primary,1VA53RAPN,Partial,Unilateral,Left,Total Knee Arthroplasty,Osteoarthritis,No,No,No
+JNT0021,PAT0008,76,Female,AB,DAD,2021/22,2018,Revision,1VA53LAPN,Total,Unilateral,Left,Total Knee Arthroplasty,Osteoarthritis,Yes,No,Yes
+JNT0022,PAT0017,77,Female,AB,DAD,2018/19,2018,Primary,1VA53RAPN,Total,Bilateral,Both,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,Yes,No
+JNT0023,PAT0020,65,Male,ON,NACRS,2021/22,2018,Revision,1VA53RAPN,Total,Bilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,Unknown,No
+JNT0024,PAT0001,64,Male,NS,DAD,2019/20,2021,Primary,1VA53LAPN,Total,Bilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,Unknown,Yes
+JNT0025,PAT0018,52,Male,MB,NACRS,2020/21,2018,Primary,1VA53LLPN,Partial,Bilateral,Right,Total Knee Arthroplasty,Osteoarthritis,Yes,No,Yes
+JNT0026,PAT0007,56,Male,QC,NACRS,2018/19,2020,Primary,1VA53RAPN,Partial,Bilateral,Left,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,Unknown,Yes
+JNT0027,PAT0023,70,Male,BC,NACRS,2021/22,2021,Revision,1VA53LAPN,Total,Bilateral,Left,Unicompartmental Arthroplasty,Osteoarthritis,No,Yes,No
+JNT0028,PAT0021,58,Male,NS,NACRS,2018/19,2020,Revision,1VA53LAPN,Total,Bilateral,Left,Unicompartmental Arthroplasty,Osteoarthritis,Yes,Yes,No
+JNT0029,PAT0023,67,Male,NS,NACRS,2021/22,2018,Primary,1VA53LLPN,Partial,Unilateral,Left,Total Knee Arthroplasty,Osteoarthritis,No,Yes,Unknown
+JNT0030,PAT0018,53,Female,AB,DAD,2018/19,2019,Primary,1VA53RAPN,Partial,Unilateral,Right,Total Knee Arthroplasty,Osteoarthritis,Yes,Unknown,Yes
+JNT0031,PAT0014,74,Male,ON,DAD,2021/22,2018,Primary,1VA53RAPN,Partial,Bilateral,Both,Total Knee Arthroplasty,Post-traumatic Arthritis,No,Unknown,No
+JNT0032,PAT0008,63,Female,ON,NACRS,2021/22,2020,Primary,1VA53LAPN,Partial,Unilateral,Left,Total Knee Arthroplasty,Post-traumatic Arthritis,No,Unknown,No
+JNT0033,PAT0015,58,Male,QC,NACRS,2019/20,2020,Revision,1VA53LAPN,Total,Unilateral,Left,Total Knee Arthroplasty,Osteoarthritis,Yes,Unknown,Yes
+JNT0034,PAT0019,75,Male,AB,DAD,2021/22,2021,Revision,1VA53LLPN,Partial,Unilateral,Right,Total Knee Arthroplasty,Rheumatoid Arthritis,No,Unknown,Unknown
+JNT0035,PAT0009,51,Male,NS,DAD,2019/20,2019,Primary,1VA53LLPN,Total,Bilateral,Both,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,Yes,Yes
+JNT0036,PAT0026,69,Female,MB,NACRS,2021/22,2021,Primary,1VA53RAPN,Partial,Bilateral,Both,Total Knee Arthroplasty,Rheumatoid Arthritis,No,No,Unknown
+JNT0037,PAT0028,77,Female,AB,DAD,2020/21,2020,Primary,1VA53RAPN,Partial,Unilateral,Right,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,Yes,No
+JNT0038,PAT0001,56,Female,QC,NACRS,2020/21,2018,Primary,1VA53LAPN,Partial,Bilateral,Right,Unicompartmental Arthroplasty,Osteoarthritis,Yes,Unknown,Unknown
+JNT0039,PAT0025,57,Female,QC,DAD,2020/21,2019,Revision,1VA53RAPN,Partial,Unilateral,Both,Total Knee Arthroplasty,Post-traumatic Arthritis,No,Yes,No
+JNT0040,PAT0026,84,Male,AB,NACRS,2021/22,2018,Primary,1VA53LLPN,Partial,Unilateral,Left,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,Unknown,Yes
+JNT0041,PAT0006,63,Female,QC,DAD,2019/20,2018,Revision,1VA53LLPN,Total,Unilateral,Both,Unicompartmental Arthroplasty,Osteoarthritis,Yes,Unknown,Yes
+JNT0042,PAT0023,66,Male,AB,NACRS,2019/20,2019,Primary,1VA53LAPN,Total,Unilateral,Right,Total Knee Arthroplasty,Rheumatoid Arthritis,No,Yes,Yes
+JNT0043,PAT0014,53,Male,BC,DAD,2021/22,2021,Revision,1VA53LLPN,Partial,Bilateral,Left,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,Unknown,Unknown
+JNT0044,PAT0011,51,Female,AB,DAD,2020/21,2018,Primary,1VA53LLPN,Partial,Bilateral,Left,Total Knee Arthroplasty,Osteoarthritis,Yes,No,No
+JNT0045,PAT0009,55,Female,AB,NACRS,2020/21,2020,Primary,1VA53LLPN,Total,Bilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,Unknown,Yes
+JNT0046,PAT0005,53,Female,QC,DAD,2019/20,2018,Revision,1VA53LLPN,Partial,Unilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,No,Yes
+JNT0047,PAT0007,78,Female,QC,NACRS,2020/21,2019,Primary,1VA53LAPN,Partial,Bilateral,Right,Unicompartmental Arthroplasty,Osteoarthritis,Yes,No,No
+JNT0048,PAT0025,67,Female,ON,DAD,2018/19,2019,Primary,1VA53LAPN,Total,Unilateral,Both,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,Unknown,Yes
+JNT0049,PAT0011,75,Female,ON,NACRS,2019/20,2019,Revision,1VA53RAPN,Partial,Bilateral,Both,Unicompartmental Arthroplasty,Osteoarthritis,No,Yes,No
+JNT0050,PAT0004,83,Female,BC,DAD,2020/21,2021,Revision,1VA53LLPN,Partial,Unilateral,Left,Total Knee Arthroplasty,Osteoarthritis,No,No,No
+JNT0051,PAT0003,59,Female,ON,NACRS,2019/20,2018,Primary,1VA53RAPN,Total,Unilateral,Right,Unicompartmental Arthroplasty,Osteoarthritis,Yes,Yes,No
+JNT0052,PAT0013,63,Male,AB,DAD,2018/19,2021,Primary,1VA53LAPN,Total,Unilateral,Left,Total Knee Arthroplasty,Post-traumatic Arthritis,No,No,No
+JNT0053,PAT0004,80,Female,QC,NACRS,2019/20,2021,Primary,1VA53LAPN,Total,Bilateral,Left,Total Knee Arthroplasty,Osteoarthritis,Yes,Unknown,No
+JNT0054,PAT0012,64,Female,ON,DAD,2019/20,2019,Primary,1VA53LAPN,Partial,Bilateral,Left,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,Unknown,Unknown
+JNT0055,PAT0028,57,Male,ON,NACRS,2019/20,2019,Primary,1VA53LAPN,Total,Bilateral,Left,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,No,Yes
+JNT0056,PAT0012,63,Female,BC,NACRS,2019/20,2021,Primary,1VA53LAPN,Total,Bilateral,Right,Total Knee Arthroplasty,Post-traumatic Arthritis,Yes,Unknown,Unknown
+JNT0057,PAT0020,72,Male,NS,NACRS,2018/19,2018,Primary,1VA53LAPN,Total,Unilateral,Left,Total Knee Arthroplasty,Post-traumatic Arthritis,Yes,No,Yes
+JNT0058,PAT0009,70,Male,BC,DAD,2021/22,2020,Primary,1VA53LAPN,Total,Bilateral,Right,Total Knee Arthroplasty,Post-traumatic Arthritis,No,Unknown,Unknown
+JNT0059,PAT0026,65,Female,AB,NACRS,2019/20,2021,Primary,1VA53LLPN,Total,Bilateral,Right,Unicompartmental Arthroplasty,Rheumatoid Arthritis,No,Yes,No
+JNT0060,PAT0002,67,Male,QC,DAD,2019/20,2018,Primary,1VA53RAPN,Total,Unilateral,Both,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,Unknown,Yes
+JNT0061,PAT0024,73,Male,BC,NACRS,2020/21,2019,Primary,1VA53LAPN,Partial,Unilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,Yes,Yes
+JNT0062,PAT0015,75,Male,ON,DAD,2019/20,2019,Primary,1VA53LLPN,Partial,Unilateral,Both,Unicompartmental Arthroplasty,Osteoarthritis,Yes,Unknown,Unknown
+JNT0063,PAT0018,74,Male,QC,NACRS,2020/21,2018,Primary,1VA53LLPN,Total,Bilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,Yes,Unknown
+JNT0064,PAT0004,78,Female,QC,DAD,2021/22,2020,Primary,1VA53RAPN,Total,Unilateral,Right,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,Unknown,Yes
+JNT0065,PAT0030,64,Male,ON,DAD,2018/19,2019,Revision,1VA53LAPN,Total,Unilateral,Right,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,Yes,Unknown
+JNT0066,PAT0013,50,Female,BC,NACRS,2018/19,2019,Primary,1VA53RAPN,Partial,Unilateral,Both,Total Knee Arthroplasty,Rheumatoid Arthritis,No,No,Unknown
+JNT0067,PAT0003,74,Male,ON,DAD,2021/22,2019,Primary,1VA53LAPN,Partial,Bilateral,Both,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,No,Unknown
+JNT0068,PAT0018,56,Male,NS,DAD,2018/19,2018,Primary,1VA53LLPN,Partial,Unilateral,Left,Total Knee Arthroplasty,Post-traumatic Arthritis,Yes,Yes,No
+JNT0069,PAT0010,58,Male,QC,NACRS,2021/22,2021,Primary,1VA53LLPN,Partial,Bilateral,Both,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,Unknown,No
+JNT0070,PAT0027,73,Male,MB,DAD,2021/22,2019,Primary,1VA53LLPN,Partial,Bilateral,Both,Unicompartmental Arthroplasty,Rheumatoid Arthritis,No,Yes,Unknown
+JNT0071,PAT0021,50,Female,MB,DAD,2021/22,2021,Primary,1VA53LLPN,Partial,Unilateral,Both,Unicompartmental Arthroplasty,Rheumatoid Arthritis,No,Unknown,Unknown
+JNT0072,PAT0020,57,Female,AB,DAD,2018/19,2020,Primary,1VA53RAPN,Partial,Unilateral,Both,Total Knee Arthroplasty,Post-traumatic Arthritis,No,No,No
+JNT0073,PAT0029,73,Male,ON,NACRS,2020/21,2019,Primary,1VA53LAPN,Partial,Bilateral,Left,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,Unknown,No
+JNT0074,PAT0028,60,Male,ON,DAD,2021/22,2019,Primary,1VA53LAPN,Partial,Unilateral,Both,Total Knee Arthroplasty,Osteoarthritis,Yes,No,Yes
+JNT0075,PAT0012,66,Female,AB,NACRS,2019/20,2020,Revision,1VA53RAPN,Total,Unilateral,Right,Total Knee Arthroplasty,Rheumatoid Arthritis,No,Unknown,Yes
+JNT0076,PAT0019,57,Male,AB,DAD,2018/19,2019,Primary,1VA53LAPN,Total,Bilateral,Right,Total Knee Arthroplasty,Rheumatoid Arthritis,Yes,Unknown,No
+JNT0077,PAT0007,84,Male,AB,DAD,2021/22,2021,Primary,1VA53LLPN,Total,Bilateral,Both,Total Knee Arthroplasty,Osteoarthritis,Yes,Unknown,Unknown
+JNT0078,PAT0023,84,Male,QC,DAD,2021/22,2018,Primary,1VA53LAPN,Total,Unilateral,Both,Unicompartmental Arthroplasty,Osteoarthritis,Yes,Yes,Unknown
+JNT0079,PAT0003,82,Female,NS,NACRS,2019/20,2021,Revision,1VA53LLPN,Partial,Bilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,Yes,Unknown
+JNT0080,PAT0002,54,Female,ON,DAD,2020/21,2018,Primary,1VA53RAPN,Partial,Unilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,No,Unknown
+JNT0081,PAT0022,77,Female,QC,DAD,2020/21,2018,Primary,1VA53LAPN,Total,Unilateral,Left,Unicompartmental Arthroplasty,Osteoarthritis,No,No,Yes
+JNT0082,PAT0008,56,Male,AB,NACRS,2020/21,2021,Revision,1VA53RAPN,Partial,Unilateral,Right,Total Knee Arthroplasty,Osteoarthritis,Yes,Yes,No
+JNT0083,PAT0025,58,Male,ON,DAD,2021/22,2021,Revision,1VA53LAPN,Total,Bilateral,Right,Total Knee Arthroplasty,Post-traumatic Arthritis,Yes,No,Unknown
+JNT0084,PAT0010,57,Female,QC,NACRS,2021/22,2021,Revision,1VA53LLPN,Partial,Unilateral,Both,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,Yes,Yes
+JNT0085,PAT0003,61,Female,NS,NACRS,2021/22,2021,Primary,1VA53RAPN,Total,Unilateral,Right,Total Knee Arthroplasty,Osteoarthritis,No,Unknown,Unknown
+JNT0086,PAT0028,83,Female,QC,DAD,2018/19,2020,Primary,1VA53LAPN,Partial,Unilateral,Left,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,No,No
+JNT0087,PAT0008,82,Female,NS,NACRS,2019/20,2019,Primary,1VA53LLPN,Partial,Bilateral,Right,Unicompartmental Arthroplasty,Rheumatoid Arthritis,No,No,Yes
+JNT0088,PAT0028,72,Male,AB,DAD,2021/22,2018,Primary,1VA53RAPN,Total,Bilateral,Both,Unicompartmental Arthroplasty,Osteoarthritis,No,Yes,No
+JNT0089,PAT0004,73,Female,NS,NACRS,2019/20,2021,Primary,1VA53RAPN,Partial,Bilateral,Both,Total Knee Arthroplasty,Rheumatoid Arthritis,No,No,No
+JNT0090,PAT0013,84,Male,ON,NACRS,2019/20,2021,Primary,1VA53LAPN,Total,Bilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,Yes,No,Yes
+JNT0091,PAT0009,71,Female,AB,DAD,2020/21,2021,Revision,1VA53LAPN,Total,Bilateral,Both,Unicompartmental Arthroplasty,Osteoarthritis,Yes,Unknown,Yes
+JNT0092,PAT0015,76,Male,ON,NACRS,2018/19,2020,Primary,1VA53LAPN,Total,Unilateral,Left,Unicompartmental Arthroplasty,Rheumatoid Arthritis,Yes,No,Yes
+JNT0093,PAT0021,84,Female,MB,NACRS,2021/22,2021,Primary,1VA53LLPN,Total,Bilateral,Left,Total Knee Arthroplasty,Osteoarthritis,Yes,Unknown,Yes
+JNT0094,PAT0027,50,Female,BC,NACRS,2020/21,2021,Primary,1VA53LAPN,Partial,Bilateral,Right,Total Knee Arthroplasty,Rheumatoid Arthritis,No,Yes,Yes
+JNT0095,PAT0012,84,Female,NS,NACRS,2020/21,2021,Primary,1VA53RAPN,Partial,Bilateral,Right,Unicompartmental Arthroplasty,Post-traumatic Arthritis,No,No,Yes
+JNT0096,PAT0006,63,Female,BC,NACRS,2021/22,2019,Primary,1VA53RAPN,Partial,Unilateral,Right,Total Knee Arthroplasty,Post-traumatic Arthritis,No,Unknown,Yes
+JNT0097,PAT0012,52,Male,BC,DAD,2019/20,2020,Primary,1VA53LAPN,Total,Bilateral,Both,Total Knee Arthroplasty,Osteoarthritis,Yes,Yes,Unknown
+JNT0098,PAT0012,50,Female,NS,NACRS,2020/21,2021,Primary,1VA53LAPN,Partial,Bilateral,Left,Total Knee Arthroplasty,Rheumatoid Arthritis,No,No,No
+JNT0099,PAT0007,54,Male,AB,DAD,2019/20,2018,Primary,1VA53RAPN,Total,Unilateral,Left,Total Knee Arthroplasty,Osteoarthritis,Yes,Yes,Yes
