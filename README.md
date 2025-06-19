@@ -1,4 +1,4 @@
-# Joint-Replacement-Registry-Faux-Dataset-
+# Joint-Replacement-Registry-Synthetic-Dataset-
 Creates a synthetic datasets of 100 imaginary patients imitating those of joint replacement registry data to prepare and test analyses. 
 
 Notes: 
