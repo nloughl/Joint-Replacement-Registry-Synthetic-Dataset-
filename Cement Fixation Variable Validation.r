@@ -1,4 +1,4 @@
-# Documenting Rise invCementless Implants: Validation Before Analysis
+# Documenting Rise in Cementless Implants: Validation Before Analysis
 
 # Create dictionary with model names and intended fixation method 
 ## Depending on specififcity of ModelName may need to use UDI or ProductName 
